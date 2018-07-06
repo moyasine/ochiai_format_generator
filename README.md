@@ -3,7 +3,7 @@
 Ochiai format generator is module that assists you to create research paper summaries in Dr. Ochiai style!
 
 # Requirements
-`rcairo`
+`rcairo`  
 `pango`
 
 # Usage
